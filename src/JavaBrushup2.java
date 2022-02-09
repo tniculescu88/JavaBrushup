@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 
 public class JavaBrushup2 {
 
@@ -14,7 +15,10 @@ public class JavaBrushup2 {
 			}
 		}
 		
-		
+		ArrayList<String> a = new ArrayList();
+		a.add("rahul");
+		a.add("shetty");
+		a.get(4);
 
 	}
 
